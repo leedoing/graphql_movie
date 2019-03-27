@@ -1,2 +1,2 @@
 # graphql_movie
-learn GraphQL
+learn a GraphQL
